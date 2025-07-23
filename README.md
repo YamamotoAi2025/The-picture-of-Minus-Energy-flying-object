@@ -7,6 +7,6 @@ FRP素材を外装に用い、内部に回転電場制御系および波動共�
 
 、ーーーーこの図はGPTさんに描いていただきました。ーーーー
 
-![ufo-diagram](./ファイル名.png)
+![ufo-diagram](https://github.com/YamamotoAi2025/The-picture-of-Minus-Energy-flying-object/blob/main/file_0000000069cc622f9157560e6e3b7cda.png)
 
 本構造の実機製作にはさらに多段階の電磁・場制御設計が必要であり、現段階では理論設計・公開優先とする。
